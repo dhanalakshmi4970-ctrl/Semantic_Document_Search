@@ -1,0 +1,76 @@
+query_id,query,rank,document_id,title,similarity_score
+query01,How can students learn through real world projects?,1,doc01,Project Based Learning,0.740513
+query01,How can students learn through real world projects?,2,doc09,Blended Learning,0.42128
+query01,How can students learn through real world projects?,3,doc10,Critical Thinking Skills,0.412444
+query01,How can students learn through real world projects?,4,doc03,Accessible Online Learning,0.387034
+query01,How can students learn through real world projects?,5,doc08,Personalised Learning Plans,0.384276
+query02,What should students do before attending a flipped class?,1,doc02,Flipped Classroom,0.698409
+query02,What should students do before attending a flipped class?,2,doc06,Positive Classroom Behaviour,0.346995
+query02,What should students do before attending a flipped class?,3,doc09,Blended Learning,0.341101
+query02,What should students do before attending a flipped class?,4,doc01,Project Based Learning,0.289744
+query02,What should students do before attending a flipped class?,5,doc10,Critical Thinking Skills,0.285971
+query03,How can online lessons support students with disabilities?,1,doc03,Accessible Online Learning,0.678625
+query03,How can online lessons support students with disabilities?,2,doc09,Blended Learning,0.512862
+query03,How can online lessons support students with disabilities?,3,doc04,Cyber Safety for Students,0.449444
+query03,How can online lessons support students with disabilities?,4,doc01,Project Based Learning,0.416706
+query03,How can online lessons support students with disabilities?,5,doc08,Personalised Learning Plans,0.403893
+query04,How can students protect their personal information online?,1,doc04,Cyber Safety for Students,0.731204
+query04,How can students protect their personal information online?,2,doc03,Accessible Online Learning,0.44593
+query04,How can students protect their personal information online?,3,doc07,Information Literacy,0.436898
+query04,How can students protect their personal information online?,4,doc09,Blended Learning,0.347485
+query04,How can students protect their personal information online?,5,doc08,Personalised Learning Plans,0.297116
+query05,How can classmates improve each other's writing?,1,doc05,Peer Feedback in Writing,0.574309
+query05,How can classmates improve each other's writing?,2,doc07,Information Literacy,0.283896
+query05,How can classmates improve each other's writing?,3,doc10,Critical Thinking Skills,0.248266
+query05,How can classmates improve each other's writing?,4,doc06,Positive Classroom Behaviour,0.230108
+query05,How can classmates improve each other's writing?,5,doc01,Project Based Learning,0.22929
+query06,How can teachers encourage good classroom behaviour?,1,doc06,Positive Classroom Behaviour,0.7172
+query06,How can teachers encourage good classroom behaviour?,2,doc02,Flipped Classroom,0.395341
+query06,How can teachers encourage good classroom behaviour?,3,doc01,Project Based Learning,0.375849
+query06,How can teachers encourage good classroom behaviour?,4,doc08,Personalised Learning Plans,0.359436
+query06,How can teachers encourage good classroom behaviour?,5,doc05,Peer Feedback in Writing,0.358765
+query07,How can students identify trustworthy information?,1,doc07,Information Literacy,0.579328
+query07,How can students identify trustworthy information?,2,doc04,Cyber Safety for Students,0.500638
+query07,How can students identify trustworthy information?,3,doc06,Positive Classroom Behaviour,0.369316
+query07,How can students identify trustworthy information?,4,doc05,Peer Feedback in Writing,0.334047
+query07,How can students identify trustworthy information?,5,doc01,Project Based Learning,0.333213
+query08,What information should an individual learning plan contain?,1,doc08,Personalised Learning Plans,0.669441
+query08,What information should an individual learning plan contain?,2,doc07,Information Literacy,0.445182
+query08,What information should an individual learning plan contain?,3,doc01,Project Based Learning,0.402127
+query08,What information should an individual learning plan contain?,4,doc09,Blended Learning,0.306567
+query08,What information should an individual learning plan contain?,5,doc10,Critical Thinking Skills,0.305397
+query09,How can teachers combine classroom and online learning?,1,doc09,Blended Learning,0.662364
+query09,How can teachers combine classroom and online learning?,2,doc03,Accessible Online Learning,0.497241
+query09,How can teachers combine classroom and online learning?,3,doc02,Flipped Classroom,0.478048
+query09,How can teachers combine classroom and online learning?,4,doc01,Project Based Learning,0.456179
+query09,How can teachers combine classroom and online learning?,5,doc08,Personalised Learning Plans,0.406344
+query10,What activities improve students' critical thinking?,1,doc10,Critical Thinking Skills,0.829936
+query10,What activities improve students' critical thinking?,2,doc01,Project Based Learning,0.458429
+query10,What activities improve students' critical thinking?,3,doc07,Information Literacy,0.385133
+query10,What activities improve students' critical thinking?,4,doc05,Peer Feedback in Writing,0.379344
+query10,What activities improve students' critical thinking?,5,doc06,Positive Classroom Behaviour,0.366373
+query11,How can students avoid plagiarism in assignments?,1,doc07,Information Literacy,0.389114
+query11,How can students avoid plagiarism in assignments?,2,doc05,Peer Feedback in Writing,0.323939
+query11,How can students avoid plagiarism in assignments?,3,doc01,Project Based Learning,0.308156
+query11,How can students avoid plagiarism in assignments?,4,doc04,Cyber Safety for Students,0.293102
+query11,How can students avoid plagiarism in assignments?,5,doc06,Positive Classroom Behaviour,0.256593
+query12,What tools help visually impaired students access online lessons?,1,doc03,Accessible Online Learning,0.707494
+query12,What tools help visually impaired students access online lessons?,2,doc09,Blended Learning,0.443573
+query12,What tools help visually impaired students access online lessons?,3,doc02,Flipped Classroom,0.367358
+query12,What tools help visually impaired students access online lessons?,4,doc04,Cyber Safety for Students,0.348928
+query12,What tools help visually impaired students access online lessons?,5,doc01,Project Based Learning,0.333087
+query13,Why are project deadlines useful for students?,1,doc01,Project Based Learning,0.534188
+query13,Why are project deadlines useful for students?,2,doc10,Critical Thinking Skills,0.33028
+query13,Why are project deadlines useful for students?,3,doc05,Peer Feedback in Writing,0.312523
+query13,Why are project deadlines useful for students?,4,doc08,Personalised Learning Plans,0.30216
+query13,Why are project deadlines useful for students?,5,doc02,Flipped Classroom,0.297025
+query14,How should students respond to online bullying?,1,doc04,Cyber Safety for Students,0.522869
+query14,How should students respond to online bullying?,2,doc06,Positive Classroom Behaviour,0.387857
+query14,How should students respond to online bullying?,3,doc05,Peer Feedback in Writing,0.354177
+query14,How should students respond to online bullying?,4,doc07,Information Literacy,0.345098
+query14,How should students respond to online bullying?,5,doc03,Accessible Online Learning,0.344657
+query15,How can teachers support students with different learning speeds?,1,doc08,Personalised Learning Plans,0.474939
+query15,How can teachers support students with different learning speeds?,2,doc01,Project Based Learning,0.421018
+query15,How can teachers support students with different learning speeds?,3,doc02,Flipped Classroom,0.380573
+query15,How can teachers support students with different learning speeds?,4,doc09,Blended Learning,0.376353
+query15,How can teachers support students with different learning speeds?,5,doc03,Accessible Online Learning,0.308638

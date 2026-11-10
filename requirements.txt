@@ -1,0 +1,11 @@
+
+chromadb
+langchain-core
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+numpy
+pandas
+scikit-learn
+notebook
+nbformat

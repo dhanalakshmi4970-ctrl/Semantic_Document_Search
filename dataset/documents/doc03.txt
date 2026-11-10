@@ -1,0 +1,4 @@
+Title: Accessible Online Learning
+Category: Educational Technology
+
+Accessible online learning provides digital educational resources for students with different learning needs. Captions, screen readers, alternative text and readable documents improve accessibility.
